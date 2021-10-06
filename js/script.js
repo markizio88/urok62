@@ -334,7 +334,6 @@ window.addEventListener('DOMContentLoaded', () => {
     });
 
     // showSlides(slideIndex);
-    
     // if (slides.length < 10) {
     //     total.textContent = `0${slides.length}`;
     // } else {
